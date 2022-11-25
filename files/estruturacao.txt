@@ -1,0 +1,8 @@
+entendimento: A partir de um arquivo de texto desordenado a árvore deverá
+ ordená-lo por uma chave que foi passada
+
+criar árvore => Recebe o número de folhas
+criar método insert (para cada linha do arquivo chamar o método insert)
+     => Se menor que insere a esquerda, se maior que, insere a direita
+criar método search
+criar método imprimir
