@@ -6,3 +6,8 @@ criar método insert (para cada linha do arquivo chamar o método insert)
      => Se menor que insere a esquerda, se maior que, insere a direita
 criar método search
 criar método imprimir
+
+
+# A ordem de uma árvore é a quantidade de registros que cabem em sua folhas
+#Todo nó da árvore tem um mínimo de registros definido pela metade da ordem, 
+#arredondando-se para baixo, caso a árvore seja de ordem ímpar (ok)
