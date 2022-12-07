@@ -1,4 +1,4 @@
-class BTreeNode:
+class Node:
   def __init__(self, leaf=False):
     self.leaf = leaf
     self.keys = []
